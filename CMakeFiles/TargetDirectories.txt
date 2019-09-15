@@ -1,0 +1,3 @@
+/home/sudosai/programs/tiny/Sort/CMakeFiles/rebuild_cache.dir
+/home/sudosai/programs/tiny/Sort/CMakeFiles/Sort.dir
+/home/sudosai/programs/tiny/Sort/CMakeFiles/edit_cache.dir
