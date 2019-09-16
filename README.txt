@@ -5,7 +5,7 @@ Visualisation of various Sorting Algorithms using "ncurses" library
 	3: Insertion sort
 	4: Merge sort
 	5: Quick sort
-_____________________________________________________________________
+____________________________________________________________________
 Installation steps-
 
 1. Goto the VisualisationSort/ directory
